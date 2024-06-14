@@ -1,4 +1,4 @@
-![Logo](screenshots/1.jpg)
+![Logo](screenshots/7.jpg)
 
 # Travel App
 
@@ -33,7 +33,7 @@ and many more, including code architecture and reusability
 ![Screenshot 2](screenshots/4.jpg)
 ![Screenshot 2](screenshots/5.jpg)
 ![Screenshot 2](screenshots/6.jpg)
-![Screenshot 2](screenshots/1.jpg)
+![Screenshot 2](screenshots/7.jpg)
 ## Getting Started
 
 To run the project locally, follow these steps:
