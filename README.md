@@ -29,7 +29,11 @@ and many more, including code architecture and reusability
 ## Screenshots
 
 ![Screenshot 2](screenshots/2.jpg)
-
+![Screenshot 2](screenshots/3.jpg)
+![Screenshot 2](screenshots/4.jpg)
+![Screenshot 2](screenshots/5.jpg)
+![Screenshot 2](screenshots/6.jpg)
+![Screenshot 2](screenshots/1.jpg)
 ## Getting Started
 
 To run the project locally, follow these steps:
